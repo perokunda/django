@@ -1,10 +1,10 @@
 # Ignore directories
-mydjango/myapp/__pycache__/
-mydjango/myapp/__init__.py
-mydjango/mydjango/__pycache__/
-mydjango/mydjango/__init__.py
+myproj/config/__pycache__/
+myproj/config/__init__.py
+myproj/apps/books/__pycache__/
+myproj/apps/books/__init__.py
 
-#mydjango/myapp/static/images/
+#myproj/myapp/static/images/
 
 
 venv/
